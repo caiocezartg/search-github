@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/caiocezartg/search-github?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/caiocezartg/search-github?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="./src/assets/exemplo-searchgithub.PNG" alt="exemplo imagem">
 
 > Precisando ver os repositórios de um usuário no GitHub de maneira mais prática? Conheça o search.Github! Basta apenas digitar o nome do usuário corretamente, clicar no botão e será listado 20 repositórios do usuário!
 
