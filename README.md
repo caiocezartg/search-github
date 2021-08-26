@@ -1,46 +1,77 @@
-# Getting Started with Create React App
+# search.Github
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-## Available Scripts
+![GitHub repo size](https://img.shields.io/github/repo-size/caiocezartg/search-github?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/caiocezartg/search-github?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/caiocezartg/search-github?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/caiocezartg/search-github?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/caiocezartg/search-github?style=for-the-badge)
 
-In the project directory, you can run:
+<img src="exemplo-image.png" alt="exemplo imagem">
 
-### `yarn start`
+> Precisando ver os repositórios de um usuário no GitHub de maneira mais prática? Conheça o search.Github! Basta apenas digitar o nome do usuário corretamente, clicar no botão e será listado 20 repositórios do usuário!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Ajustes e melhorias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-### `yarn test`
+- [x] Estilização dos repositórios
+- [x] Alerta de erro quando o usuário digitar o nome errado
+- [x] Layout totalmente responsivo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## 💻 Pré-requisitos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de `ReactJS, nodeJS`
+* Você tem uma máquina `Windows, Linux ou Mac`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Instalando search.Github
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para instalar o search.Github, siga estas etapas:
 
-### `yarn eject`
+Linux e macOS:
+```
+cd searchgithub
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+npm install OU yarn
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Windows:
+```
+cd searchgithub
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+npm install OU yarn
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## ☕ Usando search.Github
 
-## Learn More
+Para usar search.Github, basta apenas:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+Digitar o nome do usuário corretamente no campo de texto e apertar no botão de procura.
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📫 Contribuindo para search.Github
+<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+Para contribuir com <nome_do_projeto>, siga estas etapas:
+
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
+
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## 😄 Seja um dos contribuidores<br>
+
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
